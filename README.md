@@ -11,7 +11,7 @@ too long, simply because I
 was not aware of it.
 
 So I ignored this pretty long
-until they finslly removed
+until they finally removed
 the repos from the official
 server.
 
@@ -106,4 +106,6 @@ no longer work was: *dovecot.*
 which I added to my
 /etc/dovecot/local.conf but
 you should edit your dovecot
-configuratio file.
+configuration file which 
+probably even is located
+elsewhwere..
