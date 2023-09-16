@@ -75,12 +75,13 @@ no longer work was: *dovecot.*
 > openssl dhparams 4096>dh4096.pem
 
  Well, did I really write *"easily"*?
- w
- While the command is simple
+
+ While the command itself is simple
  it takes *VERY, VERY, VERY*
  long time to complete,
  because it needs to
- compute very large prime-numbers
+ compute very large prime-numbers, not exactly a key 
+ funtion of raspis.
  As I didn't know before, I
  did not exactly time the
  command, but I know that it
