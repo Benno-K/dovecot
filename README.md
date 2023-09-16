@@ -72,8 +72,9 @@ no longer work was: *dovecot.*
  easily generate such a
  so-called parameter file
  using a openssl-command like
-> openssl dhparams 4096 >dh4096.pem
- Well, did I write "easily"?
+> openssl dhparams 4096>dh4096.pem
+
+ Well, did I really write *"easily"*?
  w
  While the command is simple
  it takes *VERY, VERY, VERY*
