@@ -53,7 +53,7 @@ no longer work was: *dovecot.*
  bad idea* 
  (even if it works) 
  as it weakens
- the swcurity of *ALL* 
+ the security of *ALL* 
  SSL/TLS connections, not
  only for dovecot.
 
