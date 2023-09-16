@@ -96,3 +96,14 @@ no longer work was: *dovecot.*
  do not want to see raspis
  tortured all over the world
  just because of dovecot!
+
+ So you can use it by
+ modifiying your dovecot
+ configuration using
+ the following line
+> ssl_dh=</etc/dovecot/dh4096.pem
+
+which I added to my
+/etc/dovecot/local.conf but
+you should edit your dovecot
+configuratio file.
