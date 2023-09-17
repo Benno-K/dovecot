@@ -49,9 +49,9 @@ no longer work was: *dovecot.*
  Several posts in the
  Internet suggested to
  reduce the security level
- to 1 again. *That is a
- bad idea* 
- (even if it works) 
+ to 1 again._ *That is a
+ bad idea*_ 
+ (even if it helps) 
  as it weakens
  the security of *ALL* 
  SSL/TLS connections, not
@@ -81,7 +81,7 @@ no longer work was: *dovecot.*
  long time to complete,
  because it needs to
  compute very large prime-numbers, not exactly a key 
- funtion of raspis.
+ usecase for raspis.
  As I didn't know before, I
  did not exactly time the
  command, but I know that it
