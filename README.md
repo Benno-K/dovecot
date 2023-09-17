@@ -92,7 +92,9 @@ no longer work was: **dovecot.**
  So this repo contains
 ## dh4096.pem
  which I created with the
- above command, because I
+ above command and I
+ herewith give away for
+ free, because I
  do not want to see raspis
  tortured all over the world
  just because of dovecot!
