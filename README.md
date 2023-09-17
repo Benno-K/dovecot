@@ -22,7 +22,7 @@ upgrade it went remarkably
 well.
 
 The only thing that did
-no longer work was: *dovecot.*
+no longer work was: **dovecot.**
  It started without any 
  notice, all daemons were
  running.
@@ -49,11 +49,11 @@ no longer work was: *dovecot.*
  Several posts in the
  Internet suggested to
  reduce the security level
- to 1 again._ *That is a
- bad idea*_ 
+ to 1 again.**That is a
+ bad idea** 
  (even if it helps) 
  as it weakens
- the security of *ALL* 
+ the security of **ALL** 
  SSL/TLS connections, not
  only for dovecot.
 
@@ -74,10 +74,10 @@ no longer work was: *dovecot.*
  using a openssl-command like
 > openssl dhparams 4096\>dh4096.pem
 
- Well, did I really write *"easily"*?
+ Well, did I really write **"easily"**?
 
  While the command itself is simple
- it takes *VERY, VERY, VERY*
+ it takes **VERY, VERY, VERY**
  long time to complete,
  because it needs to
  compute very large prime-numbers, not exactly a key 
