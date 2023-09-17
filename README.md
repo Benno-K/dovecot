@@ -91,10 +91,11 @@ no longer work was: **dovecot.**
 
  So this repo contains
 ## dh4096.pem
- [download here](https://raw.githubusercontent.com/Benno-K/dovecot/main/dh4096.pem)
- which I created with the
+ which is available for
+ [download here](https://raw.githubusercontent.com/Benno-K/dovecot/main/dh4096.pem).
+ I created it with the
  above command and I
- herewith give away for
+ herewith give it away for
  free, because I
  do not want to see raspis
  tortured all over the world
