@@ -91,6 +91,8 @@ no longer work was: **dovecot.**
 
  So this repo contains
 ## dh4096.pem
+ [download here]
+ (https://raw.githubusercontent.com/Benno-K/dovecot/main/dh4096.pem)
  which I created with the
  above command and I
  herewith give away for
