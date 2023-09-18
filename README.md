@@ -16,7 +16,9 @@ the repos from the official
 server.
 
 Now I was more or less
-forced to upgrade to buster.
+forced to upgrade to buster
+(and meanwhile to bullseye
+of course)..
 Despite some hickups during
 upgrade it went remarkably
 well.
