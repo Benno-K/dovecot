@@ -17,7 +17,8 @@ server.
 
 Now I was more or less
 forced to upgrade to buster
-(and meanwhile to bullseye
+(and meanwhile to 
+bullseye then to bookworm
 of course)..
 Despite some hickups during
 upgrade it went remarkably
